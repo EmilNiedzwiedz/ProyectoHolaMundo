@@ -15,7 +15,8 @@ public class HolaPersona {
 		
 		System.out.println("Bienvenido" + nombre);
 		// TODO Auto-generated method stub
-
+		
+		
 	}
 
 }
